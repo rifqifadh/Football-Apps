@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Football Apps</string>
+    <string name="Favorites">Favorites</string>
+    <string name="match_event">Match</string>
+    <string name="teams">Teams</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="search">Search</string>
+    <string name="vs">VS</string>
+    <string name="goals">Goals</string>
+    <string name="shots">Shots</string>
+    <string name="goal_keeper">Goalkeeper</string>
+    <string name="defense">Defense</string>
+    <string name="midfield">Midfield</string>
+    <string name="forward">Forward</string>
+    <string name="formation">Formation</string>
+    <string name="subtitutes">Subtitutes</string>
+    <string name="label_added_to_favorite">Added to favorite</string>
+    <string name="label_removed_from_favorite">Removed from favorite</string>
+
+    <array name="league">
+        <item>English Premier League</item>
+        <item>Spanish La Liga</item>
+        <item>German Bundesliga</item>
+        <item>Italian Serie A</item>
+        <item>French Ligue 1</item>
+        <item>Dutch Eredivisie</item>
+    </array>
+
+
+</resources>

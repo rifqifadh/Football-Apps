@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="dateId" type="id"/>
+    <item name="homeTeam" type="id"/>
+    <item name="homeScore" type="id"/>
+    <item name="awayScore" type="id"/>
+    <item name="awayTeam" type="id"/>
+    <item name="timeId" type="id"/>
+    <item name="list_match" type="id"/>
+    <item name="team_badge" type="id"/>
+    <item name="team_name" type="id"/>
+    <item name="spinner_teams" type="id"/>
+    <item name="listTeam" type="id"/>
+    <item name="detail_team_UI" type="id"/>
+    <item name="team_badge_detail" type="id"/>
+    <item name="team_name_detail" type="id"/>
+    <item name="team_formedyear_detail" type="id"/>
+    <item name="team_stadium_detail" type="id"/>
+    <item name="tabs_detail_team" type="id"/>
+    <item name="viewpager_detail_team" type="id"/>
+    <item name="progress_bar_detail" type="id"/>
+    <item name="team_descDetailTeam" type="id"/>
+    <item name="list_player" type="id"/>
+    <item name="player_photo" type="id"/>
+    <item name="player_name" type="id"/>
+    <item name="player_position" type="id"/>
+    <item name="player_banner" type="id"/>
+    <item name="toolbar" type="id"/>
+    <item name="player_weight" type="id"/>
+    <item name="player_height" type="id"/>
+    <item name="player_desc" type="id"/>
+    <item name="player_progressBar" type="id"/>
+    <item name="listFav" type="id"/>
+</resources>
